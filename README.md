@@ -21,4 +21,26 @@ Ultimamente tenho explorado mais o backend, mas curto brincar com frontend tamb�
 
 ---
 
-### 🛠️
+### 🛠️ Ferramentas que curto usar
+
+- 🧠 Git & GitHub  
+- 💻 VS Code  
+- 🗂️ Notion  
+
+---
+
+### 📫 Contato
+
+- 📧 [pablocarvalho@estudante.ufscar.br](mailto:pablocarvalho@estudante.ufscar.br)
+
+---
+
+### 🧠 Fun fact
+
+> Às vezes, passo mais tempo refatorando código do que dormindo... 😅
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquepabl&show_icons=true&theme=tokyonight" alt="Pablo GitHub Stats"/>
+</p>
