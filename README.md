@@ -14,32 +14,33 @@ Ultimamente tenho explorado mais o backend, mas curto aprender sobre frontend de
 
 ### 🧠 Tecnologias que uso ou estou aprendendo
 
-- 💙 Java  
-- 🔵 C  
-- 💛 JavaScript  
-- 🌱 Aprendendo: Node.js e Express  
+- Java  
+- C  
+-  JavaScript  
+- Node.js e Express
+- Python
+- MySQL
+- 
 
 ---
 
-### 🛠️ Ferramentas que curto usar
+###  Ferramentas que curto usar
 
-- 🧠 Git & GitHub  
-- 💻 VS Code  
-- 🗂️ Notion  
-
----
-
-### 📫 Contato
-
-- 📧 [pablocarvalho@estudante.ufscar.br](mailto:pablocarvalho@estudante.ufscar.br)
+-  Git & GitHub  
+-  VS Code  
+-  Notion
+-  Jira
 
 ---
 
-### 🧠 Fun fact
+###  Contato
 
-> Às vezes, passo mais tempo refatorando código do que dormindo... 😅
+-  [pablocarvalho@estudante.ufscar.br](mailto:pablocarvalho@estudante.ufscar.br)
+- linkedin.com/in/pablo-montteiro
 
----
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquepabl&show_icons=true&theme=tokyonight" alt="Pablo GitHub Stats"/>
