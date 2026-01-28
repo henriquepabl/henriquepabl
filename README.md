@@ -20,7 +20,6 @@ Ultimamente tenho explorado mais o backend, mas curto aprender sobre frontend de
 - Node.js e Express
 - Python
 - MySQL
-- 
 
 ---
 
