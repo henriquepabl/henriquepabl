@@ -8,7 +8,7 @@ Oi! Meu nome é Pablo, tenho 19 anos e sou estudante de Ciência da Computação
 Sou apaixonado por programação e tô sempre buscando aprender mais.
 
 Gosto bastante da parte de lógica, escrever código limpo e entender como as coisas funcionam por trás.  
-Ultimamente tenho explorado mais o backend, mas curto brincar com frontend também de vez em quando.
+Ultimamente tenho explorado mais o backend, mas curto aprender sobre frontend de vez em quando.
 
 ---
 
