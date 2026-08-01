@@ -40,11 +40,3 @@ Buscando me tornar um desenvolvedor full-stack.
 
 -  [pablocarvalho@estudante.ufscar.br](mailto:pablocarvalho@estudante.ufscar.br)
 - linkedin.com/in/pablo-montteiro
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquepabl&show_icons=true&theme=tokyonight" alt="Pablo GitHub Stats"/>
-</p>
