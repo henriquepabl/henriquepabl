@@ -7,12 +7,12 @@
 Oi! Meu nome é Pablo, tenho 19 anos e sou estudante de Ciência da Computação na UFSCar.  
 Sou apaixonado por programação e tô sempre buscando aprender mais.
 
-Gosto bastante da parte de lógica, escrever código limpo e entender como as coisas funcionam por trás.  
-Ultimamente tenho explorado mais o backend, mas curto aprender sobre frontend de vez em quando.
+Gosto bastante da parte de lógica, escrever clean code e entender como as coisas funcionam por trás.  
+Buscando me tornar um desenvolvedor full-stack.
 
 ---
 
-### 🧠 Tecnologias que uso ou estou aprendendo
+### 🧠 Tecnologias que uso
 
 - Java  
 - C  
@@ -20,6 +20,10 @@ Ultimamente tenho explorado mais o backend, mas curto aprender sobre frontend de
 - Node.js e Express
 - Python
 - MySQL
+- C#
+- ASP.NET
+- React
+- Next.js
 
 ---
 
