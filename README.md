@@ -1,4 +1,4 @@
-# Olá! Eu sou o Pablo 👋
+# Olá! Eu sou o Pablo 
 
 <p align="center">
   <b>Estudante de Ciência da Computação na UFSCar | Estagiário de Engenharia de Software Full-Stack</b>
